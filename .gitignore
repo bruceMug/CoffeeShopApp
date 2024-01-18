@@ -33,3 +33,14 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# asset folder
+src/assets
+assets
+
+# vscode settings
+.vscode
+
+# .json
+package.json
+package-lock.json
